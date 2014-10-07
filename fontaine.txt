@@ -1,0 +1,41 @@
+Fonts
+  Font:
+    Common name: Zeyada
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)
+    License: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002 2010
+    Vendor: Kimberly Geswein
+    Designer: Kimberly Geswein
+    Designer url: http://kimberlygeswein.com
+    Glyph count: 346
+    Character count: 343
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 14
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
